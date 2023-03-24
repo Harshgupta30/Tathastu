@@ -59,3 +59,4 @@ Note: Use Python version: 3.8.5
   ```bash 
   python Gesture_Controller.py
   ```
+  #under Maintanence some feature might not work
