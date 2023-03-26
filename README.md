@@ -7,6 +7,73 @@ Gesture Controlled Virtual Mouse makes human computer interaction simple by maki
 <br>
 Note: Use Python version: 3.8.5
 
+# Features
+ _click on dropdown to know more_ <br>
+
+### Gesture Recognition:
+<details>
+<summary>Neutral Gesture</summary>
+ <figure>
+  <img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/Netural_gesture.gif" alt="Palm" width="711" height="400"><br>
+  <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
+</figure>
+</details>
+ 
+
+<details>
+<summary>Move Cursor</summary>
+  <img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/Moving_cursore.gif" alt="Move Cursor" width="711" height="400"><br>
+  <figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
+</details>
+
+<details>
+<summary>Left Click</summary>
+<img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/Left_click.gif" alt="Left Click" width="711" height="400"><br>
+ <figcaption>Gesture for single left click</figcaption>
+</details>
+
+<details>
+<summary>Right Click</summary>
+<img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/right_click.gif" alt="Right Click" width="711" height="400"><br>
+ <figcaption>Gesture for single right click</figcaption>
+</details>
+
+<details>
+<summary>Double Click</summary>
+<img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/Double_click.gif" alt="Double Click" width="711" height="400"><br>
+ <figcaption>Gesture for double click</figcaption>
+</details>
+
+<details>
+<summary>Scrolling</summary>
+<img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/Scrolling.gif" alt="Scrolling" width="711" height="400"><br>
+ <figcaption>Dynamic Gestures for horizontal and vertical scroll. The speed of scroll is proportional to the distance moved by pinch gesture from start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.</figcaption>
+</details>
+
+<details>
+<summary>Drag and Drop</summary>
+<img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/Drag_and_Drop.gif" alt="Drag and Drop" width="711" height="400"><br>
+ <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
+</details>
+
+<details>
+<summary>Multiple Item Selection</summary>
+<img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/Select.gif" alt="Multiple Item Selection" width="711" height="400"><br>
+ <figcaption>Gesture to select multiple items</figcaption>
+</details>
+
+<details>
+<summary>Volume Control</summary>
+<img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/Volume_control.gif" alt="Volume Control" width="711" height="400"><br>
+ <figcaption>Dynamic Gestures for Volume control. The rate of increase/decrease of volume is proportional to the distance moved by pinch gesture from start point. </figcaption>
+</details>
+
+<details>
+<summary>Brightness Control</summary>
+<img src="https://github.com/Harshgupta30/Tathastu/blob/main/demo_gesture/Brightness_control.gif" alt="Brightness Control" width="711" height="400"><br>
+ <figcaption>Dynamic Gestures for Brightness control. The rate of increase/decrease of brightness is proportional to the distance moved by pinch gesture from start point. </figcaption>
+</details>
+
 # Getting Started
 
   ### Pre-requisites
