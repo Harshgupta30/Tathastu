@@ -1,0 +1,167 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "How are you?",
+        "What's up?"
+      ],
+      "responses": [
+        "Hi there! How can I help you today?",
+        "Hello! What can I assist you with?",
+        "Hey! How are you doing today?",
+        "I'm doing well, thanks! How can I assist you?",
+        "Not much, just here to chat. What's on your mind?"
+      ],
+      "context": ""
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you later",
+        "Take care",
+        "Talk to you later"
+      ],
+      "responses": [
+        "Goodbye! Have a great day.",
+        "See you later! Take care.",
+        "Take care! Come back anytime.",
+        "Talk to you later! Have a good one.",
+        "Thanks for chatting! Have a great day."
+      ],
+      "context": ""
+    },
+    {
+      "tag": "thank you",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Appreciate it",
+        "You're awesome",
+        "You're the best"
+      ],
+      "responses": [
+        "You're welcome! Happy to help.",
+        "No problem! Let me know if you need anything else.",
+        "Anytime! Don't hesitate to reach out if you have any more questions.",
+        "Glad I could assist you! Let me know if you need anything else.",
+        "Thank you for the kind words! Don't hesitate to reach out if you need more assistance."
+      ],
+      "context": ""
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "What's the weather like today?",
+        "Is it going to rain today?",
+        "Do I need an umbrella today?",
+        "What's the forecast for the week?",
+        "How hot will it be today?"
+      ],
+      "responses": [
+        "Let me check the weather for you. Where are you located?",
+        "Sure! What's your current location?",
+        "Of course! Can you provide me with your current city or zip code?",
+        "I'd be happy to check the weather. What's your location?",
+        "Let me look that up for you. Where are you located?"
+      ],
+      "context": ""
+    },
+    {
+      "tag": "joke",
+      "patterns": [
+        "Tell me a joke",
+        "Do you know any jokes?",
+        "Can you make me laugh?",
+        "I need a good laugh",
+        "What's a funny joke?"
+      ],
+      "responses": [
+        "Why don't scientists trust atoms? Because they make up everything.",
+        "Why did the tomato turn red? Because it saw the salad dressing.",
+        "Why did the hipster burn his tongue? He drank his coffee before it was cool.",
+        "Why did the cookie go to the doctor? Because it was feeling crummy.",
+        "Why did the chicken cross the playground? To get to the other slide."
+      ],
+      "context": ""
+    },
+    {
+      "tag": "music",
+      "patterns": [
+        "What's your favorite song?",
+        "Can you recommend a good playlist?",
+        "What kind of music do you like?",
+        "Do you play any instruments?",
+        "What's your favorite band?"
+      ],
+      "responses": [
+        "I don't have a favorite song, but I enjoy listening to all kinds of music! As an AI, I don't have a physical form, so I don't play any instruments. As for recommendations, what genre of music are you in the mood for? I can suggest some playlists for you."
+      ],
+      "context": ""
+    },
+    {
+      "tag": "open gestureController",
+      "patterns": [
+        "activate virtual mouse",
+        "Launch Gesture Controle",
+        "activate Gesture Controle",
+        "Open Gestuer Controle"
+      ],
+      "responses": [
+        "Activating Gesture Controle"
+      ],
+      "context": ""
+    },
+    {
+      "tag": "exit gestureController",
+      "patterns": [
+        "exit Gesture Controle",
+        "end Gesure Controle",
+        "terminate Gesture Controle"
+      ],
+      "responses": [
+        "Deactivateing Gesture Controle"
+      ],
+      "context": ""
+    },
+    {
+      "tag": "copy",
+      "patterns": [
+        "copy",
+        "copy selected text",
+        "copy selected"
+      ],
+      "responses": [
+        "Copied to clipboard"
+      ],
+      "context": ""
+    },
+    {
+      "tag": "paste",
+      "patterns": [
+        "paste",
+        "paste here"
+      ],
+      "responses": [
+        "Pasted"
+      ],
+      "context": ""
+    },
+    {
+      "tag": "search",
+      "patterns": [
+        "search",
+        "find"
+      ],
+      "responses": [
+        "Searching"
+      ],
+      "context": ""
+    }
+  ]
+}
